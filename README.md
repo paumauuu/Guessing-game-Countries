@@ -1,7 +1,5 @@
 **Discover the World**
 
-- by Azamas Alexander Krause, Leila Akdad and Paula Makowe
-
 We created Discover the World as a little geography challenge where you have to figure out which country we’re thinking of.
 You get 6 guesses to find the mystery country, with a new hint after every incorrect guess. 
 If that’s not enough, you can also ask our AI geography assistant yes-or-no questions to narrow things down. 
